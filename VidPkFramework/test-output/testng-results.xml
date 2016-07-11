@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16672" started-at="2016-07-08T14:30:07Z" finished-at="2016-07-08T14:30:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16672" started-at="2016-07-08T14:30:07Z" finished-at="2016-07-08T14:30:24Z">
+      <class name="TestScripts.VidPk_Homepage_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestScripts.VidPk_Homepage_Test@3bf9ce3e]" name="setup" is-config="true" duration-ms="2977" started-at="2016-07-08T10:30:07Z" finished-at="2016-07-08T10:30:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="gotoTvPage()[pri:1, instance:TestScripts.VidPk_Homepage_Test@3bf9ce3e]" name="gotoTvPage" duration-ms="2211" started-at="2016-07-08T10:30:10Z" finished-at="2016-07-08T10:30:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoTvPage -->
+        <test-method status="PASS" signature="gotoViralpage()[pri:2, instance:TestScripts.VidPk_Homepage_Test@3bf9ce3e]" name="gotoViralpage" duration-ms="11467" started-at="2016-07-08T10:30:13Z" finished-at="2016-07-08T10:30:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gotoViralpage -->
+      </class> <!-- TestScripts.VidPk_Homepage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
